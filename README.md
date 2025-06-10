@@ -1,1 +1,3 @@
-# vip_umrajet
+# Umra Jet Premium Telegram Bot
+
+Instructions for deployment...
